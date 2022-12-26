@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "illustration", "twittermigration" ],
-    "Instances": [ "hachyderm.io", "mastodon.social" ]
+    "Tags": [ "illustration", "twittermigration", "copicart" ],
+    "Instances": [ "hachyderm.io", "mastodon.social", "socel.net", "mastodon.world" ]
 }
