@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "illustration", "kidlitart", "kidlitartpostcard", "booktoot", "klausflugge", "caldecott", "newbery", "plr", "comicsforkids", "childrensliterature", "portfolioday", "kidscomics", "boardbook", "graphicnovel", "graphicnovels", "coverreveal", "bandedessinee", "mglit", "publishing", "chapterbook", "chapterbooks", "writingcommunity", "weneeddiversebooks", "YA", "PB", "amwriting", "kidlit", "author", "middlegrade", "illustrator", "picturebook", "picturebooks", "childrensbooks", "childrensbook" ],
-    "Instances": [ "mastodon.art", "mastodon.social", "socel.net", "toot.community", "mastodon.world", "mas.to", "writing.exchange" ]
+    "Tags": [ "illustration", "kidlitart", "kidlitartpostcard", "authors", "booktoot", "klausflugge", "caldecott", "newbery", "bookfair", "comicsforkids", "childrensliterature", "portfolioday", "kidscomics", "boardbook", "graphicnovel", "graphicnovels", "coverreveal", "bandedessinee", "mglit", "publishing", "chapterbook", "chapterbooks", "writingcommunity", "weneeddiversebooks", "YA", "PB", "amwriting", "kidlit", "author", "middlegrade", "illustrator", "picturebook", "picturebooks", "childrensbooks", "childrensbook" ],
+    "Instances": [ "mastodon.art", "mastodon.social", "zirk.us", "socel.net", "toot.community", "mastodon.world", "mas.to", "writing.exchange" ]
 }
